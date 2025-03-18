@@ -19,6 +19,7 @@ All pins/connections must fall on this grid.
 - DeMorgan Standard: should be in pin order.
 - DeMorgan Alternate: should be grouped by workflow.
 - Should show internal wiring of pin to element.
+- For internal visual layout try to reference a manufacturer data sheet.
 
 Symbol properties
 
