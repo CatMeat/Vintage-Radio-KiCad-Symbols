@@ -20,6 +20,7 @@ All pins/connections must fall on this grid.
 - DeMorgan Alternate: should be grouped by workflow.
 - Should show internal wiring of pin to element.
 - For internal visual layout try to reference a manufacturer data sheet.
+- Unused pins may be hidden. But I have found some real world circuits that use these as extra connection locations.
 
 Symbol properties
 
