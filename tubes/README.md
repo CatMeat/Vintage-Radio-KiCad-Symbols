@@ -18,6 +18,6 @@ Symbol properties
 
 
 ---
-![DeMorgan Standard and Alternate Example](images/DeMorgan_Example.png)
+![DeMorgan Standard and Alternate Example](/images/DeMorgan_Example.png)
 
 Image 1: DeMorgan Standard and Alternate Example:
