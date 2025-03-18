@@ -7,7 +7,7 @@
 - For internal visual layout try to reference a manufacturer data sheet.
 - Unused pins may be hidden. But I have found some real world circuits that use these as extra connection locations.
 
-Symbol properties
+##Symbol properties
 
 - Reference value: V?
 - Value: Tube identifier, such as "12SA7" or leave blank

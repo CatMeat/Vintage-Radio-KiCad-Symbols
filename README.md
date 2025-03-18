@@ -10,8 +10,8 @@ the choices to create effeciency.
 No guarantees are made for usability. These symbols were drawn in KiCad 8.0 and later.
 
 ## Design notes
-All symbols should be drawn on 50.00 mils grid (Kicad default for all symbols).
-All pins/connections must fall on this grid.
+- All symbols should be drawn on 50.00 mils grid (Kicad default for all symbols).
+- All pins/connections must fall on this grid.
 
 ## See individual library README's for more information specific to that library.
 
