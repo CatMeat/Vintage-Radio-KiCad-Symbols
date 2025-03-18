@@ -16,9 +16,6 @@ Symbol properties
 - Keywords: common name for tube, such as "PENTAGRID CONVERTER, HEPTODE", could also
   contain other tube identifiers
 
----
-
-Looking for collaborators, contact me. K4TFJ, good on QRZ and here.
 
 ---
 ![DeMorgan Standard and Alternate Example](images/DeMorgan_Example.png)

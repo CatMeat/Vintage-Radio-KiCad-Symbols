@@ -15,3 +15,6 @@ All pins/connections must fall on this grid.
 
 ## See individual library README's for more information specific to that library.
 
+---
+
+Looking for collaborators, contact me. K4TFJ, good on QRZ and here.
