@@ -1,9 +1,9 @@
 # Vintage-Radio-KiCad-Symbols
-Vacuum tube and passive components most commonly found in pre-transistor radios
+Vacuum tube and passive components most commonly found in pre-transistor radios.
 
-Primary goal is to create a single symbol library that covers 99% of the devies 
-found in older tube radios such as the All american Fives and others. The library 
-should contain common items, even if already present in other libraries. Reduce 
+Primary goal is to create a set of symbol libraries that cover 99% of the components 
+found in older tube radios such as the All American Fives (AA5) and others. The libraries 
+should contain common items, even if already present in other standard libraries. Reduce 
 the choices to create effeciency.
 
 ## This is a work in progress
