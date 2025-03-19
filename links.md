@@ -1,5 +1,5 @@
-# Notable links
+# Notable websites of interest
 
-## Tube pin numbering
+## Tubes
 
 - [Vacuum tube pinouts](http://www.dogstar.dantimax.dk/tubestuf/pinout.htm)
