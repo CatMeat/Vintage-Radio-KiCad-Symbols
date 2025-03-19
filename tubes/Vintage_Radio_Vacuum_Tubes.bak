@@ -5031,8 +5031,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 -1.905 0)
+		(property "Datasheet" "https://github.com/CatMeat/Vintage-Radio-KiCad-Symbols/blob/main/datasheets/6BE6.pdf"
+			(at -1.524 16.002 0)
 			(effects
 				(font
 					(size 1.27 1.27)
