@@ -237,27 +237,25 @@
 		)
 	)
 	(symbol "ROTARY_SW_1P5T_X"
-		(pin_numbers hide)
 		(pin_names
 			(offset 0) hide)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "SW"
-			(at 0 10.668 0)
+			(at -2.794 -2.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" ""
-			(at 1.778 8.89 0)
+		(property "Value" "SW_SPST"
+			(at 0.254 8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -278,7 +276,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Single Pole Single Throw (SPST) switch"
 			(at -0.254 12.7 0)
 			(effects
 				(font
@@ -298,7 +296,7 @@
 		)
 		(symbol "ROTARY_SW_1P5T_X_0_0"
 			(circle
-				(center -2.54 0)
+				(center 0 0)
 				(radius 0.508)
 				(stroke
 					(width 0)
@@ -309,7 +307,7 @@
 				)
 			)
 			(circle
-				(center -1.27 -3.81)
+				(center 0 3.81)
 				(radius 0.508)
 				(stroke
 					(width 0)
@@ -320,7 +318,7 @@
 				)
 			)
 			(circle
-				(center -1.27 3.81)
+				(center 2.54 -2.54)
 				(radius 0.508)
 				(stroke
 					(width 0)
@@ -331,7 +329,7 @@
 				)
 			)
 			(circle
-				(center 1.27 6.35)
+				(center 2.54 2.54)
 				(radius 0.508)
 				(stroke
 					(width 0)
@@ -342,18 +340,7 @@
 				)
 			)
 			(circle
-				(center 5.08 -6.35)
-				(radius 0.508)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
-				(center 6.35 0)
+				(center 3.81 0)
 				(radius 0.508)
 				(stroke
 					(width 0)
@@ -367,7 +354,7 @@
 		(symbol "ROTARY_SW_1P5T_X_0_1"
 			(polyline
 				(pts
-					(xy 6.2427 -0.4981) (xy 5.588 -3.81)
+					(xy 0.3625 -0.3603) (xy 2.0971 -2.0929)
 				)
 				(stroke
 					(width 0)
@@ -379,7 +366,7 @@
 			)
 			(polyline
 				(pts
-					(xy 5.08 -5.842) (xy 5.334 -3.302) (xy 6.096 -3.556) (xy 5.08 -5.842)
+					(xy 2.032 -2.032) (xy 1.524 -1.27) (xy 1.27 -1.524) (xy 2.032 -2.032)
 				)
 				(stroke
 					(width 0)
@@ -391,20 +378,8 @@
 			)
 		)
 		(symbol "ROTARY_SW_1P5T_X_1_1"
-			(arc
-				(start 2.1595 5.2069)
-				(mid -0.8198 1.5764)
-				(end 0 -3.048)
-				(stroke
-					(width 1.27)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(pin passive line
-				(at -2.54 0 180)
+				(at 0 0 0)
 				(length 2.54) hide
 				(name "A"
 					(effects
@@ -422,7 +397,7 @@
 				)
 			)
 			(pin passive line
-				(at -1.27 -3.81 180)
+				(at 0 3.81 0)
 				(length 2.54) hide
 				(name "A"
 					(effects
@@ -440,7 +415,7 @@
 				)
 			)
 			(pin passive line
-				(at -1.27 3.81 180)
+				(at 2.54 -2.54 0)
 				(length 2.54) hide
 				(name "A"
 					(effects
@@ -458,7 +433,7 @@
 				)
 			)
 			(pin passive line
-				(at 1.27 6.35 180)
+				(at 2.54 2.54 0)
 				(length 2.54) hide
 				(name "A"
 					(effects
@@ -476,25 +451,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 -6.35 180)
-				(length 2.54) hide
-				(name "A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 6.35 0 180)
+				(at 3.81 0 0)
 				(length 2.54) hide
 				(name "A"
 					(effects

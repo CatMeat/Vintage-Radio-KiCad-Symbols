@@ -237,7 +237,9 @@
   "libraries": {
     "pinned_footprint_libs": [],
     "pinned_symbol_libs": [
-      "Vintage_Radio_Passives"
+      "Vintage_Radio_Passives",
+      "Vintage_Radio_Transformers_Coils",
+      "Vintage_Radio_Switches"
     ]
   },
   "meta": {
